@@ -1,6 +1,6 @@
 <!doctype html>
 <html>
 <body>
-<video src="dt.mp4" width="500" height="500" controls>
+<video src="dt.mp4" controls>
 </body>
 </html>
